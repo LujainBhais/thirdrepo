@@ -30,7 +30,7 @@ public class Main
         System.out.print("\nDimes : "+dimes);
         System.out.print("\nNickels : "+nickels);
         System.out.print("\nPennies : "+pennies);
-
+        System.out.print("Lujain's Project");
 
     }
 }
